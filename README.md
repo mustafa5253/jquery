@@ -1,2 +1,3 @@
 # jquery
-# Mustafa Demo
+# Chart js
+# http://www.chartjs.org/
